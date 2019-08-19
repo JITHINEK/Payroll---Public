@@ -74,9 +74,10 @@ You need to be logged in as to view this page
 				<ul>
 					<li class="colorlib-active"><a href="EmpHome.jsp">Home</a></li><br>
 					<li><a href="EmpProfile.jsp">Profile</a></li><br>
-					<li><a href="EmpProfile.jsp">Edit Profile</a></li><br>
-					<li><a href="myreports.jsp">Payslip</a></li><br>
-					<li><a href="contact.jsp">MBO Payout</a></li><br> <br>
+					
+					<li><a href="Payroll.jsp">Payslip</a></li><br>
+					<li><a href="MboPayout.jsp">MBO Payout</a></li><br>
+					<li><a href="Declaration.jsp">Download forms</a></li><br><br>
 					<li><a href="LogoutServlet">Log out</a></li>
 				</ul>
                                 
